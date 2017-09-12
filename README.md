@@ -7,4 +7,4 @@ Es können bis zu 8 Onewire Sensoren, 3 PC-Lüfter und 2 normale Lüfter an die 
 Die Gerber Dateien und der Schaltplan wurden unter der Open Source Hardware Lizenz veröffentlicht und dürfen für den nicht kommerziellen Zweck gerne weiter verwendet werden.
 <br>
 <br>
-Bilder der fertigen Platine folgen noch.
+Diese Projekt wurde von Marcel Thürmer, Justin Wellenberg, Julian Prochowicz und Till Flesch entwickelt.
